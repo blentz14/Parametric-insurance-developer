@@ -1,0 +1,9 @@
+<svg width="1920" height="560" viewBox="0 0 1920 560" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect y="-365" width="1920" height="1083" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(0 -0.0911018) scale(0.000510204 0.000904517)"/>
+</pattern>
+<image src="/Users/blentz/Downloads/Parametric Flood Insurance/insurance-product/client/src/images/flooding.jpeg" alt="FLood Image">
+</defs>
+</svg>
